@@ -489,3 +489,5 @@ You are now able to run `docker-compose up` as usual.
 [Etherpad]: https://github.com/ether/etherpad-lite
 [Jibri]: https://github.com/jitsi/jibri
 [latest release]: https://github.com/jitsi/docker-jitsi-meet/releases/latest
+
+## https://linuxize.com/post/how-to-install-and-use-docker-compose-on-ubuntu-18-04/
